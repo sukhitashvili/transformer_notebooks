@@ -1,2 +1,2 @@
 # transformer_notebooks
-Notebooks from DeepLearing.ai from lecture about transformer
+Lecture notebooks from DeepLearing.ai course about transformers
